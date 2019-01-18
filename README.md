@@ -1,3 +1,7 @@
+> Work of October of 2017.
+
+> [André Felipe B. Menezes](https://github.com/AndrMenezes) and [Wesley O. Furriel](https://github.com/WOLFurriell)
+
 # Análise das séries temporais de estações GPS presentes na região Norte e Leste do Brasil
 
 Estrutura de dados em que as observações são feitas sequencialmente ao longo do tempo
@@ -19,3 +23,11 @@ Na Seção 2, discutimos o modelo autorregressivo integrado de médias móveis e
 o esquema adotado para modelagem das 16 séries. 
 Os resultados da modelagem para cada série temporal é apresentado e discutido em detalhes na
 Seção 3. E por fim, têm-se algumas considerações finais.
+
+***
+> [Report](https://github.com/AndrMenezes/ts2017/raw/master/final_work/report.pdf)
+
+> [Presentation](https://github.com/AndrMenezes/ts2017/raw/master/final_work/presentation.pdf)
+
+> [R script](https://github.com/AndrMenezes/ts2017/raw/master/final_work/report_rmarkdown.pdf)
+***
