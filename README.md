@@ -1,4 +1,4 @@
-> Work of October of 2017.
+> Work of October, 2017.
 
 > [André Felipe B. Menezes](https://github.com/AndrMenezes) and [Wesley O. Furriel](https://github.com/WOLFurriell)
 
